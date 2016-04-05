@@ -1,0 +1,20 @@
+{
+  "name": "m2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://pengxiulin@github.com/m2-team/m2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m2-team/m2/issues"
+  },
+  "homepage": "https://github.com/m2-team/m2#readme"
+}
